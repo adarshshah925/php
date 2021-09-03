@@ -1,0 +1,22 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+.form-container{
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+    background-color: #33ccff;
+    border: 2px solid #3399ff;
+}
+.form-container input{
+    padding: 0.25rem;
+    text-align: center;
+    border: 1px solid  #3399ff;
+    border-radius: 5px;
+}
+.errorMessage{
+    color: red;
+}
